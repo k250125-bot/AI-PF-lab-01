@@ -1,6 +1,6 @@
 # Heading 1
 ## Heading 2
-** this is bold text**
+**this is bold text**
 <br/>
 _This is for Iralic_
 ~~
